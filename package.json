@@ -1,0 +1,15 @@
+{
+  "name": "serverchan-wecom-proxy",
+  "version": "1.0.0",
+  "description": "Server酱企业微信应用通道代理脚本",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fast-gateway": "^3.4.7"
+  }
+}
